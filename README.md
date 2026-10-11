@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Siva+Sankar;Software+Developer;Problem+Solver;Building+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Siva+Sankar;Software+Developer;Problem+Solver;Learning+Every+Day;Building+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Siva Sankar</h1>
 
 <p align="center">
-  <b>Software Developer</b> • <b>Problem Solver</b> • <b>Tech Enthusiast</b>
+  <b>Software Developer</b> • <b>Problem Solver</b>
 </p>
 
 <p align="center">
@@ -21,63 +21,54 @@
 
 ## About Me
 
-I am a software developer focused on building efficient, practical, and scalable digital solutions. I enjoy turning ideas into working products, solving technical problems, and continuously learning new technologies that improve both user experience and software quality.
+I am a software developer with a strong interest in building practical, efficient, and user-focused digital solutions. I enjoy solving real-world technical problems through clean coding, structured thinking, and continuous learning.
 
-My strengths lie in:
-- Writing clean, structured, and maintainable code
-- Solving real-world problems through logic and engineering
-- Learning and adapting to modern tools quickly
-- Building solutions that are useful, reliable, and user-focused
+My work is guided by:
+- Writing maintainable and scalable code
+- Solving problems with analytical thinking
+- Learning modern tools and best practices
+- Building solutions that provide real value
 
 ---
 
 ## Core Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-FF6B00?style=flat-square&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F8FF?style=flat-square&logo=fastlane&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## What I Do
+## Core Focus
 
-- Build software solutions with a focus on quality and usability
-- Work on problem-driven development and optimization
-- Improve my technical depth through projects and continuous learning
-- Create clean interfaces and practical backend logic
-- Explore modern tools and best practices in software engineering
-
----
-
-## Tech Stack
-
-```text
-Languages:      Python, JavaScript, Java, SQL, HTML, CSS
-Tools:          Git, GitHub, VS Code
-Core Focus:     Software Development, Problem Solving, Clean Code
-Learning:      Modern frameworks, APIs, scalable application patterns
-```
+- Mobile Application Development (Flutter, Android)
+- Software Development & Architecture
+- Problem Solving & Debugging
+- Application Optimization
+- CI/CD & Deployment Tools (Fastlane, Sentry)
+- Clean Code & Best Practices
+- Continuous Learning and Improvement
 
 ---
 
-## Featured Work
+## Professional Profile
 
-### Projects
-I’m actively building and improving projects that reflect practical development skills, problem-solving, and clean implementation.
-
-> Add your project names and demo links here as you build them.
-
-Example format:
-- Project 1 — Description of the app or tool
-- Project 2 — Description of the automation or dashboard
-- Project 3 — Description of the utility or platform
+I am passionate about software development and mobile app development. I specialize in Flutter and Android development, with expertise in building efficient, user-focused applications. I focus on creating code that is clean, scalable, and aligned with modern development practices.
 
 ---
 
@@ -90,12 +81,13 @@ Example format:
 
 ---
 
-## Professional Mindset
+## What I'm Working Toward
 
-- Focused on solving real-world problems
-- Committed to clean and maintainable code
-- Constantly improving technical and analytical skills
-- Interested in building impactful software with long-term value
+- Building high-quality mobile applications
+- Developing practical projects with real-world impact
+- Improving technical depth in Flutter and Android development
+- Contributing to impactful work with strong problem-solving focus
+- Mastering modern development tools and best practices
 
 ---
 

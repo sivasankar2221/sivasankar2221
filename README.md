@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>Mobile Application Developer</b> • <b>Problem Solver</b>
+  <b>Mobile Application Developer (Flutter) </b> • <b>Problem Solver</b>
 </p>
 
 <p align="center">

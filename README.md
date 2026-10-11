@@ -68,25 +68,6 @@ I am passionate about software development and mobile app development. I special
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivasankar2221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar2221&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
----
-
-## What I'm Working Toward
-
-- Building high-quality mobile applications
-- Developing practical projects with real-world impact
-- Improving technical depth in Flutter, Android, and iOS development
-- Contributing to impactful work with strong problem-solving focus
-- Mastering modern development tools and best practices
-
----
-
 ## Connect With Me
 
 <p align="center">
@@ -96,10 +77,4 @@ I am passionate about software development and mobile app development. I special
   <a href="https://github.com/sivasankar2221" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivasankar2221&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
 </p>

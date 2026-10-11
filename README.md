@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Siva+Sankar;Software+Developer;Problem+Solver;Learning+Every+Day;Building+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Siva Sankar</h1>
-
 <p align="center">
-  <b>Software Developer</b> • <b>Problem Solver</b>
+  <b>Mobile Application Developer</b> • <b>Problem Solver</b>
 </p>
 
 <p align="center">
